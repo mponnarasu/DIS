@@ -1,0 +1,10 @@
+Project Info
+
+1) VPBDIV = System clock/2 = 30 Mhz
+
+
+To be done 
+2) Actuator Diagnostics - To be Done (Sudha)
+
+Comments by Individuals
+3 Space rule

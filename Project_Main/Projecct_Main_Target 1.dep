@@ -1,0 +1,8 @@
+Dependencies for Project 'Projecct_Main', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x59D23137)(--device DARMP --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o")
+F (.\main.c)(0x59D389A0)(-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "main.o" --omf_browse "main.crf" --depend "main.d")
+F (.\UART.c)(0x59D23FBF)(-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "uart.o" --omf_browse "uart.crf" --depend "uart.d")
+F (.\ADC.c)(0x59D21E46)(-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "adc.o" --omf_browse "adc.crf" --depend "adc.d")
+F (.\GSM.c)(0x59D38BD5)(-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "gsm.o" --omf_browse "gsm.crf" --depend "gsm.d")
+F (.\RELAY.c)(0x59D38041)(-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "relay.o" --omf_browse "relay.crf" --depend "relay.d")
+F (.\common.h)(0x59D38BB9)()
